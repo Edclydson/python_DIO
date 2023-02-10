@@ -1,0 +1,7 @@
+tuple_dias = ('Domingo','Segunda','Terça','Quarta','Quinta','Sexta','Sábado')
+print(tuple_dias.count('Quarta'))
+print(type(tuple_dias))
+print("Isto é uma tupla: ", tuple_dias)
+lista_dias = list(tuple_dias)
+print(type(lista_dias))
+print("Isto é uma lista: ", lista_dias)
